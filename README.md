@@ -1,4 +1,6 @@
-*Boas vindas ao meu perfil!💙💙*
+
+> *Boas vindas ao meu perfil!💙💙*
+
 Meu nome é **Joana Vitória**.
 
 -Estou estudando na **Alura**;
