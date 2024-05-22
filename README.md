@@ -1,6 +1,6 @@
-Boas vindas ao meu perfil!💙💙
-Meu nome é Joana Vitória.
+*Boas vindas ao meu perfil!💙💙*
+Meu nome é **Joana Vitória**.
 
--Estou estudando na Alura;
--Estou me desenvolvendo na linguagem JavaScript;
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+-Estou estudando na **Alura**;
+-Estou me desenvolvendo na linguagem *JavaScript*;
+-Utilizo esse espaço para minha *organização* e *compartilhamento* dos meu projetos desenvolvidos.
